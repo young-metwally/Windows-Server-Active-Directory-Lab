@@ -2,7 +2,7 @@
 
 This project shows a small company network built in VirtualBox.
 
-I used:
+What is used:
 
 - Windows Server 2022
 - Windows 10 Pro
@@ -10,7 +10,7 @@ I used:
 - DNS
 - VirtualBox
 
-## What I Practiced
+## What Is Practiced
 
 - Creating employee accounts
 - Resetting passwords
